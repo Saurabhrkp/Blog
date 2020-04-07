@@ -1,0 +1,9 @@
+/* purgecss start ignore */
+@tailwind base;
+@tailwind components;
+/* purgecss end ignore */
+@tailwind utilities;
+
+body {
+  font: 14px 'Lucida Grande', Helvetica, Arial, sans-serif;
+}
