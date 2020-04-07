@@ -26,4 +26,4 @@ app.get('*', (req, res) => {
   return handle(req, res); // for all the react stuff
 });
 
-module.exports = { app: app, handle: handle };
+module.exports = app;
